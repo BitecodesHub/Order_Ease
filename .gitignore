@@ -19,6 +19,11 @@ target/
 *.iml
 *.ipr
 
+### Docker local build ###
+Dockerfile
+*.local
+docker-compose.override.yml
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
